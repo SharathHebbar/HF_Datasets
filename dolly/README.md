@@ -1,8 +1,10 @@
 # Databricks-dolly
 
-## Usage
+# Orca Cleansed Dataset
+This is a cleansed version of [databricks/databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k)
 
-### Loading Dataset
+
+## Usage
 
 ```python
 from datasets import load_dataset
